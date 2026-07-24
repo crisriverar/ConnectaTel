@@ -25,7 +25,7 @@ Este repositorio contiene el análisis realizado para **ConnectaTel**, una empre
 
 Haz clic en el siguiente botón:
 
-[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)](https://colab.research.google.com/drive/1VM2_g8z7cR9hvy49lrdSZAYjllYVKINS?usp=sharing)
+[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)]
 
 O de forma manual:
 1. Abre el archivo `.ipynb` en GitHub.
@@ -33,6 +33,6 @@ O de forma manual:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `S7 Version-Estudiante-Project-ConnectaTel.ipynb`.
+1. Abre `ConnectaTel.ipynb`.
 2. Ejecuta las celdas en orden.
-3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda).
+3. El notebook carga automáticamente el dataset desde `/data/`.
