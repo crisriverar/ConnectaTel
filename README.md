@@ -2,7 +2,7 @@
 
 Este repositorio contiene el análisis realizado para **ConnectaTel**, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
-## 📂 Contenido del repositorio
+## Contenido del repositorio
 
 **Notebook principal**
 - `ConnectaTel.ipynb` → contiene la limpieza de datos, análisis exploratorio (EDA), distribuciones, detección de outliers y conclusiones.
