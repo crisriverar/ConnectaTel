@@ -25,7 +25,7 @@ Este repositorio contiene el análisis realizado para **ConnectaTel**, una empre
 
 Haz clic en el siguiente botón:
 
-[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)]
+https://colab.research.google.com/github/crisriverar/ConnectaTel/blob/main/ConnectaTel.ipynb
 
 O de forma manual:
 1. Abre el archivo `.ipynb` en GitHub.
