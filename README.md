@@ -1,4 +1,4 @@
-# Analysis-ConnectaTel
+# Analisis-ConnectaTel
 
 Este repositorio contiene el análisis realizado para **ConnectaTel**, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
